@@ -1,0 +1,14 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Outros arquivos que você deseja ignorar
+.DS_Store
+.idea/
+.vscode/
